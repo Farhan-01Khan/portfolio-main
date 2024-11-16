@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Job Survey Breakdown",
+    "desc": "This project analyzes a survey of 630 data professionals from various countries, focusing on job satisfaction, and salary trends.",
+    "image": "powerbi1",
+    "category": "powerBI",
+    "links": {
+      "code": "/assets/images/projects/powerbi1.png"
+    }
+  },   
+
+  {
+    "name": "Dashboard for Product Analysis",
+    "desc": "A detailed overview of product sales, revenue, and customer distribution to optimize business performance.",
+    "image": "powerbi2",
+    "category": "powerBI",
+    "links": {
+      "code": "/assets/images/projects/powerbi1.png"
+    }
+  },
+
+  {
+    "name": "Amazon Product Sale Dashboard",
+    "desc": "🚀Excited to Share My Latest Power BI Dashboard Project! 📊I have been working on a dynamic sales dashboard that includes",
+    "image": "powerbi3",
+    "category": "powerBI",
+    "links": {
+      "code": "/assets/images/projects/powerbi3.png"
+    }
+  }
+]
